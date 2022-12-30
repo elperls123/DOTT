@@ -74,9 +74,10 @@ curl localhost/ip-validation?value=255.255.0.0
 - [ ] (Plus) Docker
 - [ ] (Plus) Security Testing
 - [ ] (Plus) Fix Code
-- [ ] Security Best Pratices
+- [ ] Security Best Practices
 
-### Techincal Diagram 
+### Technical Diagram 
+- [ ] Infrastructure Diagram
 - [ ] Processes
 - [ ] Information Flow between different technologies
 
